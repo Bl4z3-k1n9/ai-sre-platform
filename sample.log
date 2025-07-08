@@ -1,0 +1,5 @@
+```text
+May  5 15:32:10 Router1 %LINK-3-UPDOWN: Interface GigabitEthernet0/1, changed state to up
+May  5 15:35:42 Router1 %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/1, changed state to down
+May  5 15:37:22 Switch1 %STP-2-ROOT_CHANGE: Root bridge has changed
+```
